@@ -141,7 +141,7 @@ The notebook is organized into **8 sections**:
 | Ridge Regression | 81.91 | 105.97 | 3.69% | ↑ 93.9% |
 | Random Forest | 54.23 | 72.89 | 1.93% | ↑ 96.0% |
 | **Gradient Boosting** | **35.46** | **48.55** | **1.27%** | **↑ 97.4%** ⭐ |
-| LSTM | 2109.97 | 2413.28 | 64.20% | ↓ -56.6% |
+| LSTM | 1046.94 | 1212.88 | 42.51% | 22.3% |
 
 ### 🏆 Best Model: Gradient Boosting
 - **MAE**: $35.46 (average prediction error)
